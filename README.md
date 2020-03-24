@@ -18,3 +18,17 @@
 ## Formas de Consultas:
   Driver: Select * FROM users
   Query Builder: table('users').select('*').where()
+
+## Entidades
+  ONG
+  Caso(incident)
+
+## Funcionalidades
+  - Login de ONG
+  - Logout de ONG
+  - Cadastro de ONG
+  - Cadastro de novos casos
+  - Deletar casos
+  - Listar casos especificos de uma ONG
+  - Listar todos os casos
+  - Entrar em contato com a ONG
