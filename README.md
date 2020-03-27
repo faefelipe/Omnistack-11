@@ -24,7 +24,7 @@
   ONG
   Caso(incident)
 
-## Funcionalidades
+## Funcionalidades Frontend
   - Login de ONG
   - Logout de ONG
   - Cadastro de ONG
