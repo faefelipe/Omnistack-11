@@ -1,4 +1,5 @@
 # Omnistack-11
+  O contexto do projeto envolve a criação de uma aplicação para fins de aprendizado, utilizando uma stack contendo ReactJS, NodeJS e React Native.
 
 ## Metodos Http 
   Get: buscar/listar uma informação do backend
